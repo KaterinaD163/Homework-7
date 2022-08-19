@@ -19,7 +19,7 @@ public class Main {
         fullName1 = fullName1.replace("ё", "e");
         System.out.println("Данные ФИО сотрудника — " + fullName1 );
 
-        //Задание 4
+
 
     }
 }
